@@ -5,6 +5,7 @@
   * Lead liaison with agencies throughout engagement
 * 1 full time implementer
   * Deliver components 
+  * Deliver training 
 * 1/2 time data wrangler 
   * Consult agencies on data selection
   * Consult agencies on data cleanup
@@ -13,3 +14,10 @@
   * Instantiate 
   * Refine the API stack 
   * Assist with technical questions
+
+
+## Estimated Costs per Agency 
+
+### Hours 
+
+### Cloud
