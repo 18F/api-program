@@ -9,7 +9,7 @@
 * 1/2 time data wrangler 
   * Consult agencies on data selection
   * Consult agencies on data cleanup
-  * Consult agencies on data api design
+  * Consult agencies on api design
 * 1/4 time developer 
   * Instantiate 
   * Refine the API stack 
