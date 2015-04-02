@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.name }}</title>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/normalize.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css">
+  </head>
+  <body>
+    <h1>
+      {% if page.url != "/" %}
+      <a href="{{ site.baseurl }}/" title="Return home">{{ site.name }}</a>:
+      <a
+        href="{{ site.editurl }}/{{page.path}}"
+        title="Edit this page on GitHub">{{ page.name}}</a>
+      {% else %}
+        {{ site.name }}
+      {% endif %}
+    </h1>
+    {{ content }}
+  </body>
+</html>

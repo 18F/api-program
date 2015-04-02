@@ -1,0 +1,16 @@
+name: API Program
+
+baseurl: "/API-Program"
+editurl: "https://github.com/18F/API-Program/edit/gh-pages"
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
