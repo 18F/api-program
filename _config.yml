@@ -1,10 +1,8 @@
 name: API Program
 
-baseurl: ""
+baseurl: "/API-Program"
 editurl: "https://github.com/18F/API-Program/edit/gh-pages"
 
-exclude:
-  - README.md
 permalink: pretty
 markdown: kramdown
 kramdown:

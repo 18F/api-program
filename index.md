@@ -2,9 +2,9 @@
 ---
 
 {% for page in site.pages %}
-{% if page.name != "README.md" %}- [{{ page.name }}]({{ page.url }}){% endif %}
+{% if page.name != "README.md" %}
+  - [{{ page.name }}]({{site.baseurl}}/{{ page.url }})
+{% endif %}
 {% endfor %}
 
-{% for page in site.pages | where: "name", "README.md" %}
-{{ page.content | markdownify }}
-{% endfor %}
+{{ site.pages | where:"name","README.md" }}
