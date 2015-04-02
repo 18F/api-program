@@ -1,41 +1,8 @@
-## Summary 
-A proposed offering from 18F that will stand up an API program within an agency or department.  
+## Why Use This Program 
+Even with guidance and support, a willing agency still takes about two years to launch an API program.  
 
-## Goals
-* Jumpstart an agency's API program 
-* Help the agency begin to dogfood their own APIs 
-* Help the agency understand and base decisions off of API analytics 
-
-## Components 
-* A unified API at https://api.agency.gov 
-* A developer hub at https://developer.agency.gov (with redirects from agency.gov/developer and agency.gov/developers), includes
-  * Individual API documentatation 
-  * API key signup
-  * Developer Feedback Engine
-* Agency API Standards
-* Agency API Strategy
-* Integrated API Analytics 
-* Developer Engagement Strategy
-* Documentation
-  * How to add more data into the API
-  * How to update/overwrite data.  
-  * How to manage, design new endpoints that come from new data
- 
+## What This Offers Your Agency
+* Jumpstart an agency API program 
+* Begin to dogfood their own APIs 
+* Understand and base decisions off of API analytics 
   
-* Engagement 
-  * Data management - what data should be prioritized, how should it be formatted, how should this data fit within the wider data ecosystem of the agency.  
-  * UX/user-centered design 
-  * Internal collaboration - Standing up an agency API working group 
-* Developer Outreach - Implements the first stages of the developer engagement strategy
-* Training 
-  * 
-
-## ToDO
-
-
-
-
-
-
-
-
