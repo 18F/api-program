@@ -18,5 +18,11 @@
 ## Leadership and Communications Team
 * Leadership and the communications team will appreciate having more examples of their agency excelling in good government, as well as any resulting earned media.  
 
+## Outside Partners 
+* Interested industry and NGO partners who are the regular users of the agency services will appreciate direct, programmatic access to the underlying information and services so that they can get what they need from the agency more effectively.  
+
 ## Developer Community
 * The developer community will welcome the signs of a mature agency that understands their needs and will work with them.  
+
+## Citizens 
+* Outside of the above groups, citizens do not necessarily engage with the results of this project, but benefit indirectly through the work of the above groups.  
