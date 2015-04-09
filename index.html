@@ -13,14 +13,7 @@ title: API Program
     <li class="list-icon">
       <img src="assets/img/octocat.png" width="25px" alt="">
     </li>
-    {% for repo in site.repos %}
-      <li>
-        <a href="{{ repo.url }}">
-          <h4>{{ repo.name }}</h4>
-          <p>{{ repo.description }}</p>
-        </a>
-      </li>
-    {% endfor %}
+
   </ul>
 </section>
 {% endif %}
