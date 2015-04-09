@@ -5,15 +5,15 @@ markdown: kramdown
 pygments: true
 
 # Title
-name: Agile
-subtitle: Principles & Practices.
+name: API Program
+subtitle: A comprehensive solution for agencies.  
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/agile'
+baseurl: '/API-Program'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -30,40 +30,29 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Principles
-  url: principles.html
+- text: Program Components
+  url: 
   internal: true
-- text: 1. Define a measurable goal
-  url: 1-goal.html
+- text: User Stories
+  url: 
   internal: true
-- text: 2. Everyone owns the problem
-  url: 2-everyone.html
+- text: Frequently Asked Questions
+  url: 
   internal: true
-- text: 3. Small steps with visible impact
+- text: Get In Touch
   url: 3-steps.html
   internal: true
-- text: 4. Validate with your target audience
-  url: 4-validate.html
-  internal: true
-- text: 5. Measure Success
-  url: 5-measure.html
-  internal: true
-- text: 6. Reflect, Adjust, Iterate
-  url: 6-iterate.html
-  internal: true
-- text: Practices
-  url: practices.html
-  internal: true
-#- text: DOCter Repo
-#  url: https://github.com/cfpb/DOCter
-#  internal: false
+- text: Program Feedback
+  url: https://github.com/18F/API-Program/issues
+  internal: false
+
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: agile
+- name: API Program
   description: Main repository
-  url: https://github.com/18F/agile
+  url: https://github.com/18F/API-Program
 
 # Style Variables
 brand_color: "#1188ff"
