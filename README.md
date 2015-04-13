@@ -17,6 +17,6 @@ Small, medium, and large agencies, as well as medium and large individual teams 
 * [Stakeholder Perspectives](https://github.com/18F/API-Program/blob/master/stakeholders.md)  
 * [User Stories](https://github.com/18F/API-Program/blob/master/user-story.md)  
 * [Program Components](https://github.com/18F/API-Program/blob/master/program-components.md)  
-
-
+* [Problem/Impact](https://github.com/18F/api-program/blob/gh-pages/proposal/problems.md)
+* [Original Seed Proposal](https://github.com/18F/api-program/blob/gh-pages/proposal/seed-proposal.md)
 
