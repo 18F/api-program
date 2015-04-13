@@ -6,7 +6,6 @@
 * Some CIO staff will welcome the in-house ability to more easily stand up web services themselves.  
 
 ## Program Owners 
-* Over time, program owners will appreciate the ability for 
 * Program owners desire greater use of their program information and services, both in increased use metrics as well as examples of apps and websites integrating their offerings.  
 
 ## Open Data Team 
