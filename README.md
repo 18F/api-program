@@ -19,7 +19,8 @@ Small, medium, and large agencies, as well as medium and large individual teams 
   * [Problem/Impact](https://github.com/18F/api-program/blob/gh-pages/proposal/problems.md)
   * [Cost Calculator](https://docs.google.com/a/gsa.gov/spreadsheets/d/1Ik8Xxm7G6ZSWmTxGK_DD_ghFCOl1iBZZAtvEEmYWyxI/edit#gid=0)
   * [Team Notes](https://github.com/18F/api-program/blob/gh-pages/proposal/team.md)
-* [Stakeholder Perspectives](https://github.com/18F/API-Program/blob/master/stakeholders.md)  
+  * [Assumptions](https://github.com/18F/api-program/blob/gh-pages/proposal/assumptions.md)
+  * [Stakeholders](https://github.com/18F/API-Program/blob/master/stakeholders.md)  
 * [User Stories](https://github.com/18F/API-Program/blob/master/user-story.md)  
 * [Program Components](https://github.com/18F/API-Program/blob/master/program-components.md)  
 
