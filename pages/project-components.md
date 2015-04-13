@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Project Components"
+permalink: /project-components/
 ---
 
 ## Deliverables 
