@@ -1,7 +1,7 @@
 
-**Project Name**: API Program
-**Project Lead**: Gray Brooks
-**Project URL**: [https://18f.github.io/api-program](https://18f.github.io/api-program )
+**Project Name**: API Program  
+**Project Lead**: Gray Brooks  
+**Project URL**: [https://18f.github.io/api-program](https://18f.github.io/api-program )  
 
 **Statement of the Problem**:  Despite clear evidence of need, only half of federal agencies have launched an API program and the majority of those that have lack basic components.  Agencies are aware that this needs to change, but even teams that are willing face traditional obstacles that result in timelines of 18-24 months to launch even an immature 1st generation API program.  
 
