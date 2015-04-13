@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "User Stories"
+permalink: /user-stories/
 ---
 
 Agency X is a medium size agency that has been working on a range of digital projects over the past five years.  They redesigned their website, are active on social media and last year launched an open data effort that is still ongoing.  The new media team is based out of the Communciations Office and has five full-time members who lead most of the agency's digital efforts, with the assistance of new media liaisons in each of the agency's 15 bureaus and offices.  The new media team doesn't yet have an API program but has noticed their growth in government and are aware that this is an upcoming need.  They do not have an API strategy but an upcoming project being delivered by the CIO's office includes one.  
