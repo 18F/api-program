@@ -31,16 +31,16 @@ navigation:
   url: index.html
   internal: true
 - text: Program Components
-  url: project-components.html
+  url: project-components
   internal: true
 - text: User Stories
-  url: user-stories.html
+  url: user-stories
   internal: true
 - text: Frequently Asked Questions
-  url: faq.html
+  url: faq
   internal: true
 - text: Get In Touch
-  url: contact.html
+  url: contact
   internal: true
 - text: Program Feedback
   url: https://github.com/18F/API-Program/issues
