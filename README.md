@@ -12,6 +12,9 @@ Of the approximately 280 federal agencies, roughly 100 have launched a public AP
 
 Small, medium, and large agencies, as well as medium and large individual teams within agencies would be fit candidates.  Even among agencies with first or second generation API programs already in existence, the capacity has often not been scaled out to be a ready resource for all teams.  The API Program provides such an easily launched capacity that multiple teams within one agency could legitimately want to onboard their own instance to maximize convenience and customization.   
 
+## Program Planning
+* [Initial Planning](https://github.com/18F/api-program/milestones/Initial%20Program%20Planning)
+* [Stage 2 Planning](https://github.com/18F/api-program/milestones/Stage%202%20Planning)
 
 ## Other Links
 * [Original Seed Proposal](https://github.com/18F/api-program/blob/gh-pages/proposal/seed-proposal.md)
@@ -21,6 +24,10 @@ Small, medium, and large agencies, as well as medium and large individual teams 
   * [Team Notes](https://github.com/18F/api-program/blob/gh-pages/proposal/team.md)
   * [Assumptions](https://github.com/18F/api-program/blob/gh-pages/proposal/assumptions.md)
   * [Stakeholders](https://github.com/18F/API-Program/blob/master/stakeholders.md)  
+
+
+
+
 * [User Stories](https://github.com/18F/API-Program/blob/master/user-story.md)  
 * [Program Components](https://github.com/18F/API-Program/blob/master/program-components.md)  
 
