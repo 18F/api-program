@@ -31,7 +31,7 @@ navigation:
   url: index.html
   internal: true
 - text: Program Components
-  url: project-components
+  url: program-components
   internal: true
 - text: Program Planning
   url: https://github.com/18F/api-program/milestones/Initial%20Program%20Planning
