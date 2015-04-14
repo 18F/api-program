@@ -14,10 +14,3 @@
   * Instantiate 
   * Refine the API stack 
   * Assist with technical questions
-
-
-## Estimated Costs per Agency 
-
-### Hours 
-
-### Cloud
