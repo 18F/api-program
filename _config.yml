@@ -34,7 +34,7 @@ navigation:
   url: project-components
   internal: true
 - text: Program Planning
-  url: https://github.com/18F/api-program/milestones/Initial%20Project%20Planning
+  url: https://github.com/18F/api-program/milestones/Initial%20Program%20Planning
   internal: false
 - text: User Stories
   url: user-stories
