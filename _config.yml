@@ -36,9 +36,6 @@ navigation:
 - text: User Stories
   url: user-stories
   internal: true
-- text: Frequently Asked Questions
-  url: faq
-  internal: true
 - text: Program Planning
   url: https://github.com/18F/api-program/milestones/Initial%20Program%20Planning
   internal: false
