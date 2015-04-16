@@ -30,4 +30,5 @@ Small, medium, and large agencies, as well as medium and large individual teams 
   * [Team Notes](https://github.com/18F/api-program/blob/gh-pages/proposal/team.md)
   * [Assumptions](https://github.com/18F/api-program/blob/gh-pages/proposal/assumptions.md)
   * [Stakeholders](https://github.com/18F/api-program/blob/gh-pages/proposal/stakeholders.md)  
+* [Pitch Notes](https://github.com/18F/api-program/blob/gh-pages/proposal/pitch-outline.md)
 
