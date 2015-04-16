@@ -1,10 +1,10 @@
 ## Why Use This Program 
-Even with guidance and support, a willing agency still takes about two years to launch an API program.  
+Even with guidance and support, a willing agency still takes about two years to launch an API program.  This offers a comprehensive solution with which an agency can launch a second generation API program.  
 
-## What This Offers Your Agency
-* Jumpstart an agency API program 
-* Begin to dogfood their own APIs 
-* Understand and base decisions off of API analytics 
+## The API Program will What This Offers Your Agency
+* Jumpstart your agency API program 
+* Enable you to dogfood your own APIs 
+* Empower you to understand and base decisions off of API analytics 
   
 ## Who Should Use This Program 
 
