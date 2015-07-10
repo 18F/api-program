@@ -16,8 +16,15 @@
 4. Overwriting a file should update the API.  
 5. Deleting a file should remove the endpoint 
 
+## Devops
+* It should be our AWS.  
+* It should be their domain.  
+* We should ATO it.  
+* The IAA should support an eventual transition.  
+
 ~~~~~~~~
 
+## In other words...
 
 * Easy to use
   * An 18F staffer should be able to train a non-technical agency staffer on how to add, edit, and remove data easily.
