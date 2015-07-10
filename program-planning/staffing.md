@@ -14,3 +14,14 @@
   * Instantiate 
   * Refine the API stack 
   * Assist with technical questions
+
+## Interested 
+* Annalee
+* Eric
+* Alan
+* Josh Card
+* David Zvenyach
+* CM Lubinski
+
+
+
