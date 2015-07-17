@@ -8,6 +8,7 @@
   * The agency staffer should be able to manage these tasks without the need for new software, since most government staff do not have admin permissions on their work computers.
 * Easy for 18F to instantiate.
   * Minimal effort should be needed by 18F developers and devops to make ready new instances of it.
+  * The API should be at their domain, using our AWS and our ATO, but in such a way that we transfer it all to them at the end of the engagement.  
 * Highly scalable.
   * There should be little or no limit to the number of datasets that can be added to the API. If an enthusiastic agency correctly integrates hundreds of simple data files, the API stack should not choke on the volume.
   * There should be little to no limit to the number of API hits that the API can handle. We should design the API so that it is simple yet robust. If an agency correctly published a dataset that for some reason became incredibly popular, the API should be able to scale to meet demand.
