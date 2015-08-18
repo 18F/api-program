@@ -27,24 +27,33 @@ logoalt: 18f logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: Overview
   url: index.html
   internal: true
-- text: Program Components
+- text: Agency API 
+  url: agency-api
+  internal: true
+- text: Developer Hub
+  url: developer-hub 
+  internal: true
+- text: API Program
   url: program-components
   internal: true
-- text: User Stories
-  url: user-stories
+- text: Engagement
+  url: engagement
+  internal: true
+- text: Agency Manual
+  url: agency-manual
+  internal: true
+- text: 18F Manual
+  url: 18f-manual
   internal: true
 - text: Program Planning
-  url: https://github.com/18F/api-program/milestones/Initial%20Program%20Planning
-  internal: false
+  url: program-planning
+  internal: true
 - text: Get In Touch
   url: contact
   internal: true
-- text: Program Feedback
-  url: https://github.com/18F/API-Program/issues
-  internal: false
 
 
 # Repo list
