@@ -1,11 +1,13 @@
 ## Why Use This Program 
 Even with guidance and support, a willing agency still takes about two years to launch an API program.  This offers a comprehensive solution with which an agency can launch a second generation API program.  
 
-## The API Program will What This Offers Your Agency
+## What This Offers Your Agency
 * Jumpstart your agency API program 
 * Enable you to dogfood your own APIs 
 * Empower you to understand and base decisions off of API analytics 
   
+Here's a more detailed view of the API Program.  
+
 ## Who Should Use This Program 
 
 Of the approximately 280 federal agencies, roughly 100 have launched a public API program.   We know which these are and the maturity of their program.  Of the remainder, most are aware of the current or future need to move in this direction.  But whether an agency is serious in their interest or just flippantly curious, this program offers a quick means of leapfrogging directly to a third generation API program.  
