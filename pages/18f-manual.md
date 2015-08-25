@@ -4,7 +4,7 @@ title:  "18F Manual"
 permalink: /18f-manual/
 ---
 
-Process for Onboarding a New Agency
+## Process for Onboarding a New Agency
 
 
 ### How to Set Up a New Instance of the API
@@ -23,8 +23,18 @@ Process for Onboarding a New Agency
 
 ... 
 
+
+### How to ATO the API and Developer Hub
+
+... 
+
 ### How to Instantiate the API Program Artifacts
 
 ... 
+
+## Process for Transitioning the API to the Agency's Ownership
+
+...
+
 
 
