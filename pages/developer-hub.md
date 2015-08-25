@@ -8,6 +8,7 @@ A developer hub is a central resource for developers who want to access agency A
 
 * Base Template 
 * Hosted Example 
-* [Examples of other developer hubs in government](https://pages.18f.gov/API-All-the-X/pages/open_source_documentation/).
+* [Examples of other developer hubs in government](https://pages.18f.gov/API-All-the-X/pages/open_source_documentation/)
+* [Benefits to this model of website](https://pages.18f.gov/API-All-the-X/pages/open_source_documentation/)
 
 
