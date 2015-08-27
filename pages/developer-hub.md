@@ -6,13 +6,14 @@ permalink: /developer-hub/
 
 A developer hub is a central resource for developers who want to access agency APIs.  It may include any of a [range of components](https://pages.18f.gov/API-All-the-X/pages/developer_hub_kit/), but most importantly must be a starting point from which a developer can find what they are looking for.  Documentation for the agency's APIs is the major element, but the hub should also ensure the wider developer experience. The developer hub can also provide a path to the agency's data assets and open source activity.  
 
-The developer hub will be located at `https://developer.agency.gov`, but will also be available via `agency.gov/developer` and `agency.gov/developers`.  It's major sections will include: 
-* Overview of Available APIs
-* Individual API documentation
-* API Key Signup
-* Developer Feedback Mechanism
-* Program Updates
-* Links to the Agency data and open source
+The developer hub will be located at `https://developer.agency.gov`, but will also be available via `agency.gov/developer` and `agency.gov/developers`.  It's major sections will include:   
+
+* Overview of Available APIs  
+* Individual API documentation  
+* API Key Signup  
+* Developer Feedback Mechanism  
+* Program Updates  
+* Links to the Agency data and open source  
 
 
 #### Other Information 
