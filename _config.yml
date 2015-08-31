@@ -1,19 +1,23 @@
 # Base configuration
-permalink: /:title
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-markdown: kramdown
-pygments: true
+exclude:
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- go
+- program-planning
+- proposal
+
+markdown: redcarpet
+highlighter: rouge
 
 # Title
 name: API Program
 subtitle: A comprehensive solution for agencies.  
 
-# When using this template with a project page set the baseurl to '/project-name'
-# For user/organization pages set this to an empty string
-# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
-# See http://jekyllrb.com/docs/github-pages/ for more info
-#baseurl: ''
-baseurl: '/api-program'
+sass:
+  style: :compressed
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -21,40 +25,39 @@ author:
   url: https://18f.gsa.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: http://18f.github.io/api-program/assets/img/18f-logo.png
+logourl: /assets/img/18f-logo.png
 logoalt: 18f logo
 
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Overview
+- text: Introduction
   url: index.html
   internal: true
 - text: Agency API 
-  url: agency-api
+  url: agency-api/
   internal: true
 - text: Developer Hub
-  url: developer-hub 
+  url: developer-hub/
   internal: true
 - text: API Program
-  url: program-components
+  url: program-components/
   internal: true
 - text: Engagement
-  url: engagement
+  url: engagement/
   internal: true
 - text: Agency Manual
-  url: agency-manual
+  url: agency-manual/
   internal: true
 - text: 18F Manual
-  url: 18f-manual
+  url: 18f-manual/
   internal: true
 - text: Program Planning
-  url: program-planning
+  url: program-planning/
   internal: true
 - text: Get In Touch
-  url: contact
+  url: contact/
   internal: true
-
 
 # Repo list
 # List repos that you would like to appear on the homepage here
@@ -63,5 +66,15 @@ repos:
   description: Main repository
   url: https://github.com/18F/API-Program
 
-# Style Variables
-brand_color: "#1188ff"
+back_link:
+  url: "https://pages.18f.gov/guides/"
+  text: Read more 18F Guides
+
+google_analytics_ua: UA-48605964-19
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "guides_style_18f_default"

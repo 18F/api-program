@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Program Odds and Ends"
 permalink: /alternative-list-of-deliverables/
 ---

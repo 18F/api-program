@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Agency API"
 permalink: /agency-api/
 ---

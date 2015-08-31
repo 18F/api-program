@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Program Components"
 permalink: /program-components/
 ---
