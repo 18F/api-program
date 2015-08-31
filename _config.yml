@@ -34,7 +34,7 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Agency API 
+- text: Agency API
   url: agency-api/
   internal: true
 - text: Developer Hub
@@ -55,8 +55,20 @@ navigation:
 - text: Program Planning
   url: program-planning/
   internal: true
-- text: Get In Touch
+- text: Get in Touch
   url: contact/
+  internal: true
+- text: Program Odds and Ends
+  url: alternative-list-of-deliverables/
+  internal: true
+- text: FAQ
+  url: faq/
+  internal: true
+- text: Getting Started
+  url: getting-started/
+  internal: true
+- text: User Stories
+  url: user-stories/
   internal: true
 
 # Repo list
