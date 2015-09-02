@@ -1,3 +1,7 @@
+---
+title: Getting Started
+permalink: /getting-started/
+---
 ## An API Program in Three Easy Steps
 Don't be put off by jargon and machine language. Simply put, APIs are a way to surface the data you're already creating and to make it accessible to new audiences. 
 [link to/steal some good text from existing API repos].

@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "User Stories"
 permalink: /user-stories/
 ---

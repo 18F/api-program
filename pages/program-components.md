@@ -1,6 +1,5 @@
 ---
-layout: page
-title:  "Program Components"
+title: API Program
 permalink: /program-components/
 ---
 
