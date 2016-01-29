@@ -8,6 +8,8 @@ permalink: /agency-manual/
 
 ### How to Set Up the API
 
+1. Pick a base url for your API program, such as `api.agency.gov`.  
+2. [CNAME it to api.data.gov](https://github.com/18F/api.data.gov/wiki/User-Manual:-Agencies#using-your-own-domain-name).
 ...
 
 ### How to Add a Dataset 
