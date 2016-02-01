@@ -1,0 +1,22 @@
+---
+project: "API Program"
+name: api-program
+github:
+- 18F/api-program
+- 18F/autoapi
+description: A simple, reproducable API program in a bo.  
+partners:
+- General Services Administration
+stage: discovery
+milestones:
+- 'May 2015: API Program chosen for seed funding'
+contact:
+- gray.brooks@gsa.gov
+stack: jekyll, python
+team: gray, joshcarp
+licenses:
+  api-program: Public Domain (CC0)
+links:
+- https://pages.18f.gov/api-program/
+- https://autoapi.18f.gov/
+status: 
