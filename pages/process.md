@@ -15,15 +15,15 @@ permalink: /process/
 
 ### Technical Setup
 
-6. 18F and Agency need to decide on the URL for the developer hub and the API endpoint.  
+6. 18F and the partner need to decide on the URL for the developer hub and the API endpoint.  
 7. 18F sets up a vanilla developer hub, api.data.gov, and an AutoAPI instance.  
-8. Agency coordinates the delegation of of the subdomains needed for the developer hub and the API endpoint.  
-9. 18F completes the setup process with the new domains and gives the agency access to all properties.  
+8. The partner coordinates the delegation of of the subdomains needed for the developer hub and the API endpoint.  
+9. 18F completes the setup process with the new domains and gives the partner access to all properties.  
 
 ### Implementation
 
-
-
+10. Train initial batch of the partner team on how to use the AutoAPI instance and how to update the website.  
+11. Offer 
 
 
 ### Training 
