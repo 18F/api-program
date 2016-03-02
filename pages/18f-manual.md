@@ -13,7 +13,7 @@ permalink: /18f-manual/
 
 ### Set up Agency Access for the API and api.data.gov 
 
-In the api.data.gov admin, complete the following steps:
+In the api.data.gov admin, complete the following steps to deploy the autoapi instance to `api.18f.gov/agency/`:
 
 1. Create a new [API Scope](https://api.data.gov/admin/#/api_scopes) for `api.18f.gov/agency/`
 2. Create a new [Admin Group](https://api.data.gov/admin/#/admin_groups) to give permissions to that API Scope.
@@ -35,7 +35,5 @@ In the api.data.gov admin, complete the following steps:
 
 ## Process for Transitioning the API to the Agency's Ownership
 
-...
-
-
-
+1. After the agency [picks and assigns](/api-program/agency-manual/#how-to-set-up-the-api) their own domain to api.data.gov, repeat the [api.data.gov setup](#set-up-agency-access-for-the-api-and-apidatagov) for their own domain name.
+2. ...
