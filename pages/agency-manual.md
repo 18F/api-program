@@ -4,7 +4,15 @@ title:  "Agency Manual"
 permalink: /agency-manual/
 ---
 
-## The API  
+## Setting up the API
+
+### Creating a cloud.gov account
+
+https://docs.cloud.gov/intro/overview/using-cloudgov-paas/
+
+
+
+## Using The API  
 
 ### How to Set Up the API
 
