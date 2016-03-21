@@ -46,9 +46,14 @@ https://docs.cloud.gov/intro/overview/using-cloudgov-paas/
 
 ## Developer Hub 
 
-### How to Set Up the Developer Hub
+### How to Initially Set Up the Developer Hub
 
-...
+
+
+...  
+  
+Decide on [sections for the site](https://pages.18f.gov/API-All-the-X/pages/developer_hub_kit/)...  
+
 
 ### How to Edit the Developer Hub 
 
