@@ -36,10 +36,7 @@ navigation:
 - text: Developer Hub
   url: developer-hub 
   internal: true
-- text: API Program
-  url: program-components
-  internal: true
-- text: Engagement
+- text: Developer Engagement
   url: engagement
   internal: true
 - text: Agency Manual
@@ -47,9 +44,6 @@ navigation:
   internal: true
 - text: 18F Manual
   url: 18f-manual
-  internal: true
-- text: Program Planning
-  url: program-planning
   internal: true
 - text: Get In Touch
   url: contact
