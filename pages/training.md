@@ -13,3 +13,7 @@ There are four main areas of training in this engagement:
 * Increasingly complex API design and developer engagement.  
 * Basic 'Intro to APIs' courses for other staff memebers. 
 * Executive API trainings.  
+
+For more details on the training options, see the [agency manual](https://pages.18f.gov/api-program/agency-manual).  
+
+
