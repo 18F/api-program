@@ -36,6 +36,9 @@ navigation:
 - text: Developer Hub
   url: developer-hub 
   internal: true
+- text: Agency Training
+  url: training 
+  internal: true
 - text: Developer Engagement
   url: engagement
   internal: true
