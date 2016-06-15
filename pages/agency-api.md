@@ -18,6 +18,7 @@ The API includes straightfoward functionality such as querying, pagination, and 
 #### Analytics 
 
 The hosted API uses the [api.data.gov service](https://api.data.gov/about) is invisibly provide serveral important functions:  
+  
 * API keys, to know who your developers are.  
 * Usage tiers, to manage how they use your APIs.  
 * API analytics, so that you can see who is using your APIs, how, and how much.  
