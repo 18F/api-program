@@ -42,14 +42,14 @@ navigation:
 - text: Developer Engagement
   url: engagement
   internal: true
+- text: How to Get Started
+  url: process
+  internal: true
 - text: Agency Manual
   url: agency-manual
   internal: true
 - text: 18F Manual
   url: 18f-manual
-  internal: true
-- text: How to Get Started
-  url: process
   internal: true
 - text: Get In Touch
   url: contact
