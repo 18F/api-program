@@ -36,5 +36,24 @@ permalink: /18f-manual/
 
 ...
 
+--------------------
+
+##Steps to Track
+
+Pre-IAA
+
+IAA starts
+
+Stage 1 
+
+
+* Stand up Cloud.gov 
+* Install AutoAPI 
+* Set up api.data.gov 
+* Customize autoapi to api.data.gov 
+
+Stage 2 
+
+* Assemble risk-related information for agency to use to accept risk. 
 
 
