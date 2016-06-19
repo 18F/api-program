@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "What the process looks like"
+title:  "What the IAA process looks like"
 permalink: /process/
 ---
 
