@@ -4,7 +4,7 @@ Even with guidance and support, an agency might still take years to launch an AP
 ## What This Offers Your Agency
 * Production-ready APIs 
 * Developer-friendly documentation 
-* Training for agency staff and leadership on the role of APIs for your agency and how to maintain the program going forward.
+* Training for agency staff and leadership on the role of APIs for your agency and how to maintain the program going forward
 * Robust API analytics to understand how developers use your APIs
   
 ## Who Should Use This Program 
