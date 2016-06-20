@@ -9,10 +9,10 @@ This program is designed to stand up an API capability for your agency as quickl
 
 There are four main areas of training in this engagement:  
 
-* Training your team to create, maintain, and update your APIs.  
-* Increasingly complex API design and developer engagement.  
-* Basic 'Intro to APIs' courses for other staff memebers. 
-* Executive API trainings.  
+* Training your team to create, maintain, and update your APIs
+* Increasingly complex API design and developer engagement
+* Basic 'Intro to APIs' courses for other staff memebers 
+* Executive API trainings
 
 For more details on the training options, see the [agency manual](https://pages.18f.gov/api-program/agency-manual).  
 
