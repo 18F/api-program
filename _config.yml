@@ -46,7 +46,7 @@ navigation:
   url: process
   internal: true
 - text: Project Outline
-  url: process
+  url: project-outline
   internal: true
 - text: Agency Manual
   url: agency-manual
