@@ -25,5 +25,5 @@ Once we have answered any questions you have, if you are interested in pursuing 
 * Have those individuals review the details of the Inter-Agency Agreement.  If they have questions, we are happy to answer them. 
 * Coordinate with Gray Brooks, who will confirm the IAA details.  
 * Circulate the proposed documents for acceptance on your end.  Email us with copies of the IAA documents that have been signed by your points of contact.  
-* We will then reciprocate with signatuves from our officials and the engagement can begin.  
+* We will then reciprocate with signatures from our officials and the engagement can begin.  
 
