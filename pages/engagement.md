@@ -10,10 +10,10 @@ We intentionally designed the API engine itself to be very easy to manage,  In s
 
 At a minimum, we will have four sources of developer feedback to process and respond to:  
 
-* A public feedback section on your developer hub.
-* API key registrations.  
-* API usability sessions. 
-* Social Media outreach 
+* A public feedback section on your developer hub
+* API key registrations 
+* API usability sessions
+* Social media outreach 
 
 For more details on developer engagement, see the [agency manual](https://pages.18f.gov/api-program/agency-manual).  
 
