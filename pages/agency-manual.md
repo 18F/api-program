@@ -4,7 +4,7 @@ title:  "Agency Manual"
 permalink: /agency-manual/
 ---
 
-Below are directions for common tasks for the core team at the agency client.  
+_Below are directions for common tasks for the core team at the agency client.  Further documentation will be regularly added, but you can also file requests for something specific in the [issue tracker](https://github.com/18F/api-program/issues)._   
   
 ## Setting up the API
 
