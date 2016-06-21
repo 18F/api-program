@@ -5,4 +5,3 @@ permalink: /18f-manual/
 ---
 
 
-...   
