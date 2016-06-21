@@ -4,6 +4,8 @@ title:  "Agency Manual"
 permalink: /agency-manual/
 ---
 
+Below are directions for common tasks for the core team at the agency client.  
+  
 ## Setting up the API
 
 ### Creating a cloud.gov account
