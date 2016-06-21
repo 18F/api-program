@@ -30,16 +30,16 @@ navigation:
 - text: Overview
   url: index.html
   internal: true
-- text: - Agency API 
+- text: --Agency API 
   url: agency-api
   internal: true
-- text: - Developer Hub
+- text: --Developer Hub
   url: developer-hub 
   internal: true
-- text: - Agency Training
+- text: --Agency Training
   url: training 
   internal: true
-- text: - Developer Engagement
+- text: --Developer Engagement
   url: engagement
   internal: true
 - text: How to Get Started
