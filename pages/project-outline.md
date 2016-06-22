@@ -69,6 +69,7 @@ Once the IAA start date arrives, program work can begin.  Below is an overview o
 * Weigh transition of pre-existing APIs into autoapi engine 
 * Document baseline measurements
 * Develop a short, medium, and long term plan for API expansion
+* Provide suggestions for improvement to pre-existing APIs and developer resources that do not get migrated
 * Review metrics over time
 * Review candidates for further API creation
 * Prototype dogfooding the agency APIs 
