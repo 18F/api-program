@@ -64,14 +64,14 @@ Once the IAA start date arrives, program work can begin.  Below is an overview o
 
 ## General Implementation
 * Survey existing APIs
-* Survey existing data resources general implementation
+* Survey existing data resources 
 * Survey data download analytics
 * Weigh transition of pre-existing APIs into autoapi engine 
 * Document baseline measurements
 * Develop a short, medium, and long term plan for API expansion
 * Review metrics over time
 * Review candidates for further API creation
-* Prototype dogfooding the agency APIs general implementation
+* Prototype dogfooding the agency APIs 
 * Develop plans for further dogfooding of the agency APIs
 
 ## Handoff
