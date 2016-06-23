@@ -62,3 +62,7 @@ Once you have authenticated to your S3 bucket, you will be able to do the follow
 * API hits can be individual examined or measured via a wide range of queries at Analytics -> Filter Logs.  
 * API activity can be viewed specific to each developer key in order to analyze who is using the API and how much and how their application is being used.  This can be found at Analytics -> By Users.  
 
+### How to manage agency access to the API analytics
+
+* Log in at api.data.gov/admin.  
+* Under Users -> Admin accounts, you'll be able to add, edit, and remove admin accounts.  
