@@ -24,13 +24,41 @@ _Note: You'll need to follow up and upgrade the cloud.gov instance to a FISMA Lo
 
 ...
 
+### Request DNS set up for api.[agency].gov
+
+
+
+
 ### Set up api.data.gov for the autoapi instance
+
+Once the autoapi instance has been stood up... 
 
 * Log into api.data.gov/admin.  
 * Configuration -> API Backends -> Add API Backends 
-  * ...
+  * Backend Protocol: HTTPS
+  * Server: Name of Backend Host 
+  * Frontend Host: api.[agency].gov
+  * Backend Host: [subdomain of hosted autoapi instance]
+  * Matching URL Prefixes - Frontend Prefix: /data/
+  * Matching URL Prefixes - Backend Prefix: /
+  * Save
+* Configuration -> Publish Changes (Check only your API)
+
+_If the DNS delegation for api.[agency].gov is not yet compete, set up the API analytics at api.18f.gov/[agency] so that we can begin using the API._
+
+### Set up access to api.data.gov analytics  
+
 * Users -> API Scopes -> Add New API Scopes
-  * ...
+  * Name: [Agency] - AutoAPI 
+  * Host: api.[agency].gov
+  * Path Prefix: /data/
+  * Save
+* Users -> Admin Groups -> Add New Admin Group
+  * Group Name: [Agency] - AutoAPI 
+  * Permissions: [all]
+* Users -> Admin Accounts -> Add New Admin
+  * Username: [their email address] 
+  * Permissions - Groups: [Agency] - AutoAPI 
 
 
 
