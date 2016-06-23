@@ -24,24 +24,13 @@ _Note: You'll need to follow up and upgrade the cloud.gov instance to a FISMA Lo
 
 ...
 
-### Set up Agency Access for the API and api.data.gov 
+### Set up api.data.gov for the autoapi instance
 
-... 
+* Log into api.data.gov/admin.  
+* Configuration -> API Backends -> Add API Backends 
+  * ...
+* Users -> API Scopes -> Add New API Scopes
+  * ...
 
-### How to Set Up the New Developer Hub
 
-... 
-
-
-### How to ATO the API and Developer Hub
-
-... 
-
-### How to Instantiate the API Program Artifacts
-
-... 
-
-## Process for Transitioning the API to the Agency's Ownership
-
-...
 
