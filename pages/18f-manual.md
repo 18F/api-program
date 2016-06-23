@@ -10,11 +10,15 @@ _Below are directions for common tasks for the 18F team that is participating in
 
 ### How to set up an agency with cloud.gov 
 
-* If an agency does not have a cloud.gov instance yet, go to #cloud-gov-business and request an agency sandbox be created and then 
+If an agency does not have a cloud.gov instance yet, go to #cloud-gov-business and request an agency sandbox be created and provide the email addresses as the user accounts that should be created.  Those people will receive emails when the account is created.  
 
-### How to Set Up a New Instance of the API
+_Note: You'll need to follow up and upgrade the cloud.gov instance to a FISMA Low isntance._
 
+### How to gain access to the agency's cloud.gov instance.  
 
+### How to set up autoapi in the agency's cloud.gov instance  New Instance of the API
+
+* See instructions [here](https://github.com/18F/autoapi/blob/master/instructions.md). 
 
 ### How to Get DNS Access From the New Agency
 
