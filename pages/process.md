@@ -14,11 +14,11 @@ This service provides:
   
 * A FISMA low cloud.gov instance   
 * The autoapi stack hosted in your cloud.gov instance  
-* 150 hours of training, consulting, and engagement  
+* 240 hours of training, consulting, and engagement  
   
-The cost of this service is $XX,XXX.  The period of performance would be XX months, begining with the date of final signatures on the Inter-Agency Agreement.  
+The cost of this service is $75,000.  The period of performance would be 4 months, begining with the date of final signatures on the Inter-Agency Agreement.  
 
-The Inter-Agency Agreement for this project [can be found here](https://pages.18f.gov/api-program/iaa).  .   
+The Inter-Agency Agreement for this project [can be found here](https://pages.18f.gov/api-program/iaa).  
 
 Once we have answered any questions you have, if you are interested in pursuing this service, here are the next steps:  
 
