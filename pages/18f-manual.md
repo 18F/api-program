@@ -14,20 +14,10 @@ If an agency does not have a cloud.gov instance yet, go to #cloud-gov-business a
 
 _Note: You'll need to follow up and upgrade the cloud.gov instance to a FISMA Low isntance._
 
-### How to gain access to the agency's cloud.gov instance.  
 
 ### How to set up autoapi in the agency's cloud.gov instance  New Instance of the API
 
-* See instructions [here](https://github.com/18F/autoapi/blob/master/instructions.md). 
-
-### How to Get DNS Access From the New Agency
-
-...
-
-### Request DNS set up for api.[agency].gov
-
-
-
+* See instructions [here](https://github.com/18F/autoapi/blob/master/instructions.md).  
 
 ### Set up api.data.gov for the autoapi instance
 
