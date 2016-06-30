@@ -60,5 +60,11 @@ _If the DNS delegation for api.[agency].gov is not yet compete, set up the API a
   * Username: [their email address] 
   * Permissions - Groups: [Agency] - AutoAPI 
 
+### Learn more about api.data.gov
 
+You can learn more about the service at: 
+* https://api.data.gov/about
+* https://github.com/18F/api.data.gov/wiki/User-Manual:-Agencies
+* https://github.com/18F/api.data.gov-ops
+* https://apiumbrella.io/
 
