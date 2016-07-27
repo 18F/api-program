@@ -66,3 +66,14 @@ Once you have authenticated to your S3 bucket, you will be able to do the follow
 
 * Log in at api.data.gov/admin.  
 * Under Users -> Admin accounts, you'll be able to add, edit, and remove admin accounts.  
+
+
+## Monitoring the API  
+
+
+### How to check system logs
+
+
+### How to stress test the API 
+
+
