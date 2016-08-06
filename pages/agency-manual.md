@@ -61,6 +61,7 @@ Once you have authenticated to your S3 bucket, you will be able to do the follow
 * To see how the API is being used, navigate to Analytics -> API Drilldown.  
 * API hits can be individual examined or measured via a wide range of queries at Analytics -> Filter Logs.  
 * API activity can be viewed specific to each developer key in order to analyze who is using the API and how much and how their application is being used.  This can be found at Analytics -> By Users.  
+* To export a list of developers who are using the API, navigate to Analytics -> By Users and then use this query - `Request: URL Path:contains:[part-of-api-url]`.  You'll then be able to export the results.  
 
 ### How to manage agency access to the API analytics
 
