@@ -1,5 +1,5 @@
 ## Why Use This Program 
-Even with guidance and support, an agency might still take years to launch an API program.  This service offers a comprehensive solution with which an agency can leapfrog the beginning stages and launch a second generation API program.  
+Even with guidance and support, an agency might still take years to launch an API program.  This service offers a comprehensive solution with which an agency can leapfrog the beginning stages and launch a fully functioning API program.  
 
 ## What This Offers Your Agency
 * Production-ready APIs 
