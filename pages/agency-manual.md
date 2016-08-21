@@ -59,30 +59,47 @@ Once you have authenticated to your S3 bucket, you will be able to do the follow
 
 The API has a number of built in query options, described below.  
 
-* Page number
-  * _?page=2_
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?page=2)_
-* Select Number of Results Per Page
-  * _?per_page=30_
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?per_page=30)_
-* Filter by 1 column
-  * _?[columnheader]=[value]_
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?abbrev=ak)_
-* Filter by more than 1 column  (returns results that have both value1 and value4)
-  * _?[columnheader1]=[value1]&[columnheader3]=[value4]_
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?abbrev=ak&capital=Juneau)_
-* Filter by multiple options in a column  (returns results that have value1 OR value2)
-  * _?[columnheader1]=[value1]&[columnheader1]=[value2]_
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?abbrev=ak&abbrev=az)_
-* Return an individual record
-  * _/index#_
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals/3)_
-* Return the meta structure for the api 
-  * _/meta/_
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals/meta)_
-* Sort 
-  * _?sort=[columnheader3]_ | _?sort=-[columnheader3]_
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?sort=abbrev)_ | _[example](https://gb-autoapi.apps.cloud.gov/capitals?sort=-abbrev)_
+* Page number  
+  
+  * _?page=2_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?page=2)_  
+  
+* Select Number of Results Per Page  
+  
+  * _?per_page=30_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?per_page=30)_  
+  
+* Filter by 1 column  
+  
+  * _?[columnheader]=[value]_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?abbrev=ak)_  
+  
+* Filter by more than 1 column  (returns results that have both value1 and value4)  
+  
+  * _?[columnheader1]=[value1]&[columnheader3]=[value4]_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?abbrev=ak&capital=Juneau)_  
+
+* Filter by multiple options in a column  (returns results that have value1 OR value2)  
+  
+  * _?[columnheader1]=[value1]&[columnheader1]=[value2]_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?abbrev=ak&abbrev=az)_  
+  
+* Return an individual record  
+  
+  * _/index#_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals/3)_  
+  
+* Return the meta structure for the API  
+  
+  * _/meta/_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals/meta)_  
+  
+* Sort   
+  
+  * _?sort=[columnheader3]_ | _?sort=-[columnheader3]_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?sort=abbrev)_ | _[example](https://gb-autoapi.apps.cloud.gov/capitals?sort=-abbrev)_  
+
+
 
 
 ### How to view the API analytics 
