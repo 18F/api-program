@@ -61,12 +61,12 @@ The API has a number of built in query options, described below.
 
 * Page number  
   
-  * _?page=2_  
+  * _?page=[page number]_  
   * _[example](https://gb-autoapi.apps.cloud.gov/capitals?page=2)_  
   
 * Select Number of Results Per Page  
   
-  * _?per_page=30_  
+  * _?per_page=[number of results]_  
   * _[example](https://gb-autoapi.apps.cloud.gov/capitals?per_page=30)_  
   
 * Filter by 1 column  
@@ -86,7 +86,7 @@ The API has a number of built in query options, described below.
   
 * Return an individual record  
   
-  * _/index#_  
+  * _/[index number]_  
   * _[example](https://gb-autoapi.apps.cloud.gov/capitals/3)_  
   
 * Return the meta structure for the API  
@@ -96,8 +96,8 @@ The API has a number of built in query options, described below.
   
 * Sort   
   
-  * _?sort=[columnheader3]_ | _?sort=-[columnheader3]_  
-  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?sort=abbrev)_ | _[example](https://gb-autoapi.apps.cloud.gov/capitals?sort=-abbrev)_  
+  * _?sort=[columnheader3]_ or  _?sort=-[columnheader3]_  
+  * _[example](https://gb-autoapi.apps.cloud.gov/capitals?sort=abbrev)_ or _[example](https://gb-autoapi.apps.cloud.gov/capitals?sort=-abbrev)_  
 
 
 
