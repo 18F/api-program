@@ -1,5 +1,7 @@
+APIs are an efficient, flexible option for sharing your agency’s services and information with the public. Once an API program is in place, distributing more and more data to broader audiences is quick, simple, and secure. APIs provide a foundation upon which you and the public can build customizable tools, like an app, website, widget, or research project. [Learn more about the benefits and business cases for APIs.](https://pages.18f.gov/API-All-the-X/pages/benefits_of_apis/)
+
 ## Why Use This Program 
-Even with guidance and support, an agency might still take years to launch an API program.  This service offers a comprehensive solution with which an agency can leapfrog the beginning stages and launch a fully functioning API program.  
+Even with guidance and support, an agency might still take years to launch an API program.  This service offers a comprehensive solution to help agencies quickly launch a fully functioning API program.  
 
 ## What This Offers Your Agency
 * Production-ready APIs 
