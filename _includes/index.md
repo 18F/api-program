@@ -4,10 +4,10 @@ APIs are an efficient, flexible option for sharing your agency’s services and 
 Even with guidance and support, an agency might still take years to launch an API program.  This service offers a comprehensive solution to help agencies quickly launch a fully functioning API program.  
 
 ## What This Offers Your Agency
-* Production-ready APIs 
+* Production-ready APIs hosted on [cloud.gov](https://cloud.gov)
 * Developer-friendly documentation 
 * Training for agency staff and leadership on the role of APIs for your agency and how to maintain the program going forward
-* Robust API analytics to understand how developers use your APIs
+* Robust API analytics to understand how the public is using your APIs
   
 ## Who Should Use This Program 
 
