@@ -6,7 +6,7 @@ In consultation with your team, an 18F project lead and developer will build the
 * Production-ready APIs 
 * Developer-friendly documentation 
 * Training for agency staff and leadership on the role of APIs for your agency and how to maintain the program going forward
-* Robust API analytics to understand how developers use your APIs
+* Robust API analytics to understand how developers use your APIs (free to your team indefinitely)
   
 ## Who Should Use This Program 
 
