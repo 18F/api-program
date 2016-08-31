@@ -2,11 +2,10 @@
 Even with guidance and support, an agency might still take years to launch an API program.  This service offers a comprehensive solution with which an agency can leapfrog the beginning stages and launch a fully functioning API program.  
 
 ## What This Offers Your Agency
-In consultation with your team, an 18F project lead and developer will build the following in 3-4 months:
 * Production-ready APIs 
 * Developer-friendly documentation 
 * Training for agency staff and leadership on the role of APIs for your agency and how to maintain the program going forward
-* Robust API analytics to understand how developers use your APIs (free to your team indefinitely)
+* Robust API analytics to understand how developers use your APIs 
   
 ## Who Should Use This Program 
 
