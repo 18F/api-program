@@ -48,8 +48,11 @@ navigation:
 - text: How to Get Started
   url: process
   internal: true
-- text: Project Outline
+- text: --Project Outline
   url: project-outline
+  internal: true
+- text: --Statement of Work
+  url: sow
   internal: true
 - text: Agency Manual
   url: agency-manual
