@@ -31,37 +31,37 @@ navigation:
   url: https://pages.18f.gov/api-program/
   internal: false
 - text: --Agency API 
-  url: https://pages.18f.gov/api-program/agency-api
+  url: https://pages.18f.gov/api-program/agency-api/
   internal: false
 - text: --Developer Hub
-  url: https://pages.18f.gov/api-program/developer-hub 
+  url: https://pages.18f.gov/api-program/developer-hub/
   internal: false
 - text: --Agency Training
-  url: https://pages.18f.gov/api-program/training 
+  url: https://pages.18f.gov/api-program/training/ 
   internal: false
 - text: --API Analytics
-  url: https://pages.18f.gov/api-program/api-analytics
+  url: https://pages.18f.gov/api-program/api-analytics/
   internal: false
 - text: Developer Engagement
-  url: https://pages.18f.gov/api-program/engagement
+  url: https://pages.18f.gov/api-program/engagement/
   internal: false
 - text: How to Get Started
-  url: https://pages.18f.gov/api-program/process
+  url: https://pages.18f.gov/api-program/process/
   internal: false
 - text: --Project Outline
-  url: https://pages.18f.gov/api-program/project-outline
+  url: https://pages.18f.gov/api-program/project-outline/
   internal: false
 - text: --Statement of Work
-  url: https://pages.18f.gov/api-program/sow
+  url: https://pages.18f.gov/api-program/sow/
   internal: false
 - text: Agency Manual
-  url: https://pages.18f.gov/api-program/agency-manual
+  url: https://pages.18f.gov/api-program/agency-manual/
   internal: false
 - text: 18F Manual
-  url: https://pages.18f.gov/api-program/18f-manual
+  url: https://pages.18f.gov/api-program/18f-manual/
   internal: false
 - text: Get In Touch
-  url: https://pages.18f.gov/api-program/contact
+  url: https://pages.18f.gov/api-program/contact/
   internal: false
 
 
